@@ -10,6 +10,6 @@
 
 ## 下载和安装
 
-从 [发布页](https://github.com/miku88888/dungeons-dynasties-text-editor/releases/tag/v0.303) 下载 **text-editor-0.303.zip**。退出游戏，在 Steam 库右键游戏，选「管理 → 浏览本地文件」，把 ZIP 里的全部文件解压到游戏程序旁。确认 Windows 已安装 Node.js，再双击「安装简中.cmd」。完整用法见包内的「安装和玩法说明.md」。
+从 [最新版发布页](https://github.com/miku88888/dungeons-dynasties-text-editor/releases/latest) 下载文字编辑安装包。退出游戏，在 Steam 库右键游戏，选「管理 → 浏览本地文件」，把 ZIP 里的全部文件解压到游戏程序旁。确认 Windows 已安装 Node.js，再双击「安装简中.cmd」。完整用法见包内的「安装和玩法说明.md」。
 
-**workshop-words-0.303.zip** 是工坊使用的 950 条简中改译内容包。F8 编辑功能随 **text-editor-0.303.zip** 提供。
+工坊使用的 950 条简中改译可在[历史发布页](https://github.com/miku88888/dungeons-dynasties-text-editor/releases/tag/v0.303)下载。上方的文字编辑安装包包含 F8 编辑功能。
